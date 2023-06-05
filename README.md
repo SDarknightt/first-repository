@@ -2,12 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Instale as dependencia o Node
+Instale as dependencias do Node:
 ```bash
 npm install
 ```
 
-Rode a aplicação utilizanddo:
+Rode a aplicação utilizando:
 ```bash
 npm run dev
 ```
